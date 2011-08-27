@@ -1,0 +1,10 @@
+{
+  "name": "quick coffeescript testing",
+  "description": "",
+  "version": "0.0.1",
+  "maintainers": ["email": "me@caikesouza.com"]
+  "engines": {
+    "node": "0.4.7"
+  }
+}
+
